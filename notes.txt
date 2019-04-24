@@ -1,0 +1,11 @@
+machine code - programming languages spoken by computer processor
+  - Every program you run on your computer has been converted (compiled into machine code )
+
+Level of Abstraction
+-Javascript -> C/C++ -> Assembly Language -> Machine Language
+
+Ecmascript - The standard javascript is based on
+
+A javascript engine:
+A program that converts javascript code into something the computer processor can understand
+  - It should follow the Ecmascript standard on how the language should work and what features it should have
