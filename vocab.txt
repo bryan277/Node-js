@@ -21,3 +21,6 @@ a name which maps to a value
 
 object literal:
 Name/value pairs seperated by commas and surrounded by curly braces
+
+primitive:
+a type of data that represents a single value
