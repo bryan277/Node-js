@@ -20,7 +20,11 @@ name/value pair:
 a name which maps to a value
 
 object literal:
-Name/value pairs seperated by commas and surrounded by curly braces
+Name/value pairs separated by commas and surrounded by curly braces
 
 primitive:
 a type of data that represents a single value
+  - like a number or a string. In other words, not an object
+
+scope:
+where in code you have access to particular variable or function
