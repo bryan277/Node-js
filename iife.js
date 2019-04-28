@@ -4,8 +4,12 @@ var lastname = 'Nalgene';
    var firstname = 'John';
    console.log(firstname);
    console.log(lastname);
-}('Nalgene'));
+}('Nalgenes'));
 
 var firstname = 'Jane';
 console.log(firstname);
 console.log(lastname);
+// John
+// Nalgenes
+// Jane
+// Nalgene

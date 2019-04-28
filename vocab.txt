@@ -28,3 +28,18 @@ a type of data that represents a single value
 
 scope:
 where in code you have access to particular variable or function
+
+JSON:
+"Javascript object notation"
+  - a standard for strucuring data that is inspired by javascript object literals
+  - javascript engines are built to understand it 
+  ex.
+  {
+    "firstname" : "John",
+    "lastname" : "Doe",
+    "address" : {
+      "street" : "101 Main St.",
+      "city" : "New York",
+      "state" : "NY"
+    }
+  }
