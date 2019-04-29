@@ -32,7 +32,7 @@ where in code you have access to particular variable or function
 JSON:
 "Javascript object notation"
   - a standard for strucuring data that is inspired by javascript object literals
-  - javascript engines are built to understand it 
+  - javascript engines are built to understand it
   ex.
   {
     "firstname" : "John",
@@ -43,3 +43,7 @@ JSON:
       "state" : "NY"
     }
   }
+
+Revealing Module pattern:
+exposing only the properties and methods you want via an returned object
+-very common and clean wya to structure and protect code within modules 
